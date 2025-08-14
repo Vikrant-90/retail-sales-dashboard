@@ -18,7 +18,7 @@ This Power BI dashboard provides a comprehensive view of sales operations across
 
 ## 📸 Dashboard Preview
 
-![Retail Dashboard](./301_pl.png)
+![Retail Dashboard](./pbi_latest2.png)
 
 📄 [Click here to download the Dashboard Explanation (PDF)](./retail_and_operation.pdf)
 
